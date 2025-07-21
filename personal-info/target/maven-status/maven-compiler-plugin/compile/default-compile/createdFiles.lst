@@ -1,0 +1,5 @@
+com\example\personalinfo\model\PersonalInfo.class
+com\example\personalinfo\repository\PersonalInfoRepository.class
+com\example\personalinfo\PersonalInfoApplication.class
+com\example\personalinfo\controller\PersonalInfoController.class
+com\example\personalinfo\service\PersonalInfoService.class
